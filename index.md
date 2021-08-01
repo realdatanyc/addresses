@@ -2,8 +2,9 @@
 
 471 Park Avenue
 
-The Chatsworth
-Riversdide Drive and 72nd Street
+The Chatsworth\
+Riverside Drive and 72nd Street\
+[344 West 72nd Street](https://thechatsworth.com/)
 
 
 # addresses
